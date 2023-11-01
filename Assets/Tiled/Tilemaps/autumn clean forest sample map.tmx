@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map version="1.10" tiledversion="1.10.2" orientation="orthogonal" renderorder="right-down" width="32" height="32" tilewidth="16" tileheight="16" infinite="0" nextlayerid="8" nextobjectid="1">
- <tileset firstgid="1" source="../Tilesets/autumn clean/autumn clean forest wang tiles.tsx"/>
- <tileset firstgid="2049" source="../Tilesets/autumn clean/autumn clean forest.tsx"/>
- <tileset firstgid="2721" source="../Tilesets/autumn clean/autumn clean waterfall.tsx"/>
- <tileset firstgid="2801" source="../Tilesets/autumn clean/autumn clean 32x32.tsx"/>
- <tileset firstgid="2808" source="../Tilesets/autumn clean/autumn clean trees 80x112.tsx"/>
- <tileset firstgid="2811" source="../Tilesets/autumn clean/autumn clean 16x32.tsx"/>
+ <tileset firstgid="1" source="../Tilesets/autumn/autumn forest wang tiles.tsx"/>
+ <tileset firstgid="2049" source="../Tilesets/autumn/clean/autumn clean forest.tsx"/>
+ <tileset firstgid="2721" source="../Tilesets/autumn/autumn waterfall.tsx"/>
+ <tileset firstgid="2801" source="../Tilesets/autumn/autumn 32x32.tsx"/>
+ <tileset firstgid="2808" source="../Tilesets/autumn/clean/autumn clean trees 80x112.tsx"/>
+ <tileset firstgid="2811" source="../Tilesets/autumn/autumn 16x32.tsx"/>
  <tileset firstgid="2817" source="../Tilesets/bonus bridge.tsx"/>
  <tileset firstgid="2818" source="../Tilesets/collision &amp; alpha.tsx"/>
- <tileset firstgid="2946" source="../Tilesets/autumn clean/autumn clean water sparkles.tsx"/>
+ <tileset firstgid="2946" source="../Tilesets/autumn/autumn water sparkles.tsx"/>
  <layer id="1" name="Under Sprite 1" width="32" height="32">
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,130,258,130,2198,2229,2230,2231,258,386,130,194,322,322,194,386,258,194,258,386,130,386,

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tileset version="1.9" tiledversion="1.9.1" name="spring forest wang tiles" tilewidth="16" tileheight="16" tilecount="2048" columns="64">
- <image source="../../Resources/Spritesheets/SeasonalForestSheets/wang/spring_wang.png" width="1024" height="512"/>
+ <image source="../../../Resources/Spritesheets/SeasonalForestSheets/wang/spring_wang.png" width="1024" height="512"/>
  <wangsets>
   <wangset name="wang terrains (won't work with non-wang terrains)" type="corner" tile="10">
    <wangcolor name="dirt" color="#ff0000" tile="128" probability="1"/>

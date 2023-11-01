@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tileset version="1.9" tiledversion="1.9.1" name="spring water sparkles" tilewidth="16" tileheight="16" tilecount="12" columns="4">
- <image source="../../Resources/Spritesheets/SeasonalForestSheets/Animations/WaterSparkles/spring_sparkles.png" width="64" height="48"/>
+ <image source="../../../Resources/Spritesheets/SeasonalForestSheets/Animations/WaterSparkles/spring_sparkles.png" width="64" height="48"/>
  <tile id="0">
   <animation>
    <frame tileid="0" duration="600"/>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tileset version="1.9" tiledversion="1.9.1" name="spring forest" tilewidth="16" tileheight="16" tilecount="672" columns="32">
- <image source="../../Resources/Spritesheets/SeasonalForestSheets/ForestSheets/spring.png" width="512" height="336"/>
+ <image source="../../../Resources/Spritesheets/SeasonalForestSheets/ForestSheets/spring.png" width="512" height="336"/>
  <tile id="26">
   <animation>
    <frame tileid="26" duration="100"/>
