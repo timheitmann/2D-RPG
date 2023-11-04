@@ -38,6 +38,18 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Ground
+    uniqueID: 1457970211
+    locked: 0
+  - name: Overground
+    uniqueID: 2446877075
+    locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: OverSprite1
+    uniqueID: 3151270581
+    locked: 0
+  - name: OverSprite2
+    uniqueID: 1356191753
     locked: 0

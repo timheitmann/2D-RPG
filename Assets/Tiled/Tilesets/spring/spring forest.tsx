@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tileset version="1.9" tiledversion="1.9.1" name="spring forest" tilewidth="16" tileheight="16" tilecount="672" columns="32">
+<tileset version="1.10" tiledversion="1.10.2" name="spring forest" tilewidth="16" tileheight="16" tilecount="672" columns="32">
  <image source="../../../Resources/Spritesheets/SeasonalForestSheets/ForestSheets/spring.png" width="512" height="336"/>
  <tile id="26">
   <animation>
@@ -44,8 +44,6 @@
  <tile id="151">
   <animation>
    <frame tileid="151" duration="300"/>
-   <frame tileid="152" duration="300"/>
-   <frame tileid="153" duration="300"/>
   </animation>
  </tile>
  <tile id="154">
@@ -61,8 +59,6 @@
  <tile id="183">
   <animation>
    <frame tileid="183" duration="300"/>
-   <frame tileid="184" duration="300"/>
-   <frame tileid="185" duration="300"/>
   </animation>
  </tile>
  <tile id="186">
@@ -78,8 +74,6 @@
  <tile id="215">
   <animation>
    <frame tileid="215" duration="300"/>
-   <frame tileid="216" duration="300"/>
-   <frame tileid="217" duration="300"/>
   </animation>
  </tile>
  <tile id="218">
