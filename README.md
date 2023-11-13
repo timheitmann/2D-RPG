@@ -6,13 +6,13 @@
 3. Gameplay Mechanincs
     1. Jahreszeiten
         1. Frühling
-            1. Crops
+            * Crops
         2. Sommer
-            1. Crops
+            * Crops
         3. Herbst
-            1. Crops
+            * Crops
         4. Winter
-            1. Crops
+            * Crops
 
 ## 1. Spielstand Struktur
 
