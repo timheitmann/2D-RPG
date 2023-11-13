@@ -4,15 +4,15 @@
 1. Spielstand Struktur
 2. Item IDs
 3. Gameplay Mechanincs
-  1. Jahreszeiten
-      1. Frühling
-          1. Crops
-      2. Sommer
-          1. Crops
-      3. Herbst
-          1. Crops
-      4. Winter
-          1. Crops
+    1. Jahreszeiten
+        1. Frühling
+            1. Crops
+        2. Sommer
+            1. Crops
+        3. Herbst
+            1. Crops
+        4. Winter
+            1. Crops
 
 ## 1. Spielstand Struktur
 
@@ -52,7 +52,7 @@ Die ersten zwei Ziffern geben die Item Kategorie an:
 
 ## 3. Gameplay Mechanics
 
-### 3.1. Jahreszeiten
+### I. Jahreszeiten
 
 Jahreszeiten bestehen jeweils aus 28 Tagen, mit je 4 Wochen. Jede Jahreszeit hat ein eigenes Tileset für die Umwelt, sodass das Aussehen veränderbar ist.
 
