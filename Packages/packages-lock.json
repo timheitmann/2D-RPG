@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "com.seanba.super-tiled2unity": {
-      "version": "file:E:/Desktop/Neuer Ordner",
+      "version": "file:E:/Downloads/super-tiled2unity.v2.1.1",
       "depth": 0,
       "source": "local",
       "dependencies": {
@@ -9,6 +9,16 @@
         "com.unity.modules.physics2d": "1.0.0",
         "com.unity.modules.tilemap": "1.0.0"
       }
+    },
+    "com.simonoliver.unityfigma": {
+      "version": "https://github.com/simonoliver/UnityFigmaBridge.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {
+        "com.unity.nuget.newtonsoft-json": "2.0.1-preview.1",
+        "com.unity.textmeshpro": "2.0.1"
+      },
+      "hash": "df46de2babace2aaec76342666722a740041d10d"
     },
     "com.unity.2d.animation": {
       "version": "9.0.4",
@@ -188,6 +198,13 @@
     },
     "com.unity.mathematics": {
       "version": "1.2.6",
+      "depth": 1,
+      "source": "registry",
+      "dependencies": {},
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.nuget.newtonsoft-json": {
+      "version": "3.2.1",
       "depth": 1,
       "source": "registry",
       "dependencies": {},

@@ -1,6 +1,7 @@
 {
   "dependencies": {
-    "com.seanba.super-tiled2unity": "file:E:/Desktop/Neuer Ordner",
+    "com.seanba.super-tiled2unity": "file:E:/Downloads/super-tiled2unity.v2.1.1",
+    "com.simonoliver.unityfigma": "https://github.com/simonoliver/UnityFigmaBridge.git",
     "com.unity.cinemachine": "2.9.7",
     "com.unity.collab-proxy": "2.1.0",
     "com.unity.feature.2d": "2.0.0",
