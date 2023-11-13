@@ -5,14 +5,14 @@
 2. Item IDs
 3. Gameplay Mechanincs
   1. Jahreszeiten
-    1. Frühling
-      1. Crops
-    2. Sommer
-      1. Crops
-    3. Herbst
-      1. Crops
-    4. Winter
-      1. Crops
+      1. Frühling
+          1. Crops
+      2. Sommer
+          1. Crops
+      3. Herbst
+          1. Crops
+      4. Winter
+          1. Crops
 
 ## 1. Spielstand Struktur
 
