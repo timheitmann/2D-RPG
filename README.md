@@ -56,21 +56,19 @@ Die ersten zwei Ziffern geben die Item Kategorie an:
 
 Jahreszeiten bestehen jeweils aus 28 Tagen, mit je 4 Wochen. Jede Jahreszeit hat ein eigenes Tileset für die Umwelt, sodass das Aussehen veränderbar ist.
 
-#### 3.1.1. Frühling
+#### a. Frühling
 
-##### 3.1.1.1. Crops
+##### Crops
 
-1. 
+#### b. Sommer
 
-#### 3.1.1. Sommer
+##### Crops
 
-##### 3.1.1.1. Crops
+#### c. Herbst
 
-#### 3.1.1. Herbst
+##### Crops
 
-##### 3.1.1.1. Crops
+#### d. Winter
 
-#### 3.1.1. Winter
-
-##### 3.1.1.1. Crops
+##### Crops
 
