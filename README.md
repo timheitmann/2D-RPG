@@ -1,7 +1,7 @@
 # 2D RPG Name TBD
 
 ## Inhalt
-1. Spielstand Struktur
+[1. Spielstand Struktur](/1-spielstand-struktur)
 2. Item IDs
 3. Gameplay Mechanincs
 4. Ingame Menu
