@@ -2,9 +2,10 @@
 
 ## Inhalt
 1. [Spielstand Struktur](#1-spielstand-struktur)
-2. Item IDs
-3. Gameplay Mechanincs
-4. Ingame Menu
+2. [Item IDs](#2-item-ids)
+3. [Gameplay Mechanincs](#3-gameplay-mechanics)
+4. [Ingame Menu](#4-ingame-menu)
+5. [Hauptmenü](#5-hauptmenü)
 
 ## 1. Spielstand Struktur
 
