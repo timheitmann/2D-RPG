@@ -4,15 +4,7 @@
 1. Spielstand Struktur
 2. Item IDs
 3. Gameplay Mechanincs
-    1. Jahreszeiten
-        1. Frühling
-            * Crops
-        2. Sommer
-            * Crops
-        3. Herbst
-            * Crops
-        4. Winter
-            * Crops
+4. Ingame Menu
 
 ## 1. Spielstand Struktur
 
@@ -71,4 +63,63 @@ Jahreszeiten bestehen jeweils aus 28 Tagen, mit je 4 Wochen. Jede Jahreszeit hat
 #### d. Winter
 
 ##### Crops
+
+## 4. Ingame Menu
+
+Das Ingame Menü besteht aus einer Reihe von Tabs.
+Diese sind am oberen Rand des Menüs auszuwählen.
+Folgende Tabs sind umgesetzt:
+* Inventar
+* Crafting
+* Skilltree
+* Optionen
+* Exit Optionen
+
+### Inventar
+
+Das Inventar soll dem Spieler einen Überblick liefern, welche Items und welche Ausrüstung aktuell getragen wird. Das Spielerinventar besteht aus 30 Slots, in denen Items untergebracht werden können. Darüber hinaus verfügt der Spieler über Ausrüstungsslots für Kopfbedeckungen, Rüstungen und Schuhe(, sowie zwei RInge und ein Amulett).
+
+Am rechten Rand des Menüs soll für das Item, über das aktuell mit der Mouse gehovert wird, eine kurze Beschreibung und das Icon (größer) angezeigt werden.
+
+### Crafting
+
+Das Crafting Menü soll es dem Spieler ermöglichen, Items, die im Inventar sind, zu neues Items zu kombinieren. Die Optionen hierfür sind an sich limitiert, da viele Crafting Rezepte einen geeigneten Arbeitsplatz (wie einen Ofen oder eine Werkbank) benötigen.
+
+Von Hand craftbare Items sind folgende:
+
+* TBD
+
+### Skilltree
+
+Das Skillmenü ist erneut in drei Tabs unterteilt. Der erste Tab beinhaltet den Skillbaum für alles farm- und sammel-bezogene. Der zweite Tab verbessert Kampffähigkeiten. Der letzte Tab dreht sich um Magie und Trankbrauerei.
+
+### Optionen
+
+Das Optionemenü soll es dem Spieler ermöglichen, einige Einstellungen vorzunehmen. Diese bestehen aus Grafikeinstellungen, sowie Ingame Einstellungen.
+
+### Exit Optionen
+
+Die Exit Optionen bestehen aus 2 Buttons. Ein Button beendet das Spiel ohne zu speichern, der andere speichert den aktuellen Spielstand und beendet im Anschluss die aktuelle Spielsitzung und lässt den Spieler zum Hauptmenü zurückkehren.
+
+## 5. Hauptmenü
+
+Das Hauptmenü besteht aus 5 Buttons
+
+* Neues Spiel
+* Fortsetzen
+* Spiel laden
+* Optionen
+* Spiel beenden
+
+### Neues Spiel
+
+Mit Klick auf diesen Button wird ein neues Spiel gestartet. Der Spieler wird zur Character Creation weitergeleitet, wo der Charakter für dieses Savegame gestaltet werden kann.
+
+#### Character Creation
+
+In diesem Screen soll der Spieler den Character für das neue Spiel bearbeiten können.
+Folgende Optionen sollen hierbei gesetzt werden können:
+* Charaktername (Auch name des Savegames)
+* Farmname
+* Parameter für das Aussehen des Characters (TBD)
 

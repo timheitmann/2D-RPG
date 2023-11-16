@@ -14,14 +14,17 @@ public class Player : MonoBehaviour {
     private float lastHorizontal;
     private float lastVertical;
     private bool isWalking;
+    private bool menuOpen;
     private List<RaycastHit2D> hits = new List<RaycastHit2D>();
     private Rigidbody2D rb;
+
     
     private float collisionOffset = 0.1f;
     
 
     private void Start() {
         rb = GetComponent<Rigidbody2D>();
+        menuOpen = false;
     }
 
     private void Awake() {
@@ -29,7 +32,22 @@ public class Player : MonoBehaviour {
     }
 
     private void FixedUpdate() {
-        HandleMovement();
+        // Check for Menu Input
+        HandleMenuInput();
+
+        if(!menuOpen){
+            HandleMovement();
+        }
+    }
+
+    private void HandleMenuInput() {
+        if(true){
+            if(menuOpen){
+                menuOpen = false;
+            } else {
+                menuOpen = true;
+            }
+        }
     }
 
     private void HandleMovement() {

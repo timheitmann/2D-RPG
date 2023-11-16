@@ -17,7 +17,7 @@ public class TileManager : MonoBehaviour {
     }
 
     public bool isInteractable(Vector3Int possition) {
-        Tilebase tile = interactableTilemap.GetTile(possition);
+        TileBase tile = interactableTilemap.GetTile(possition);
 
         return tile != null && tile.name == "Interactable";
     }
